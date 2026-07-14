@@ -1,0 +1,15 @@
+title: "블랙로즈 :: 죽음과 절망"
+description: "죽음과 기록, 균형을 다루는 현대 한국 이상현상 세계관 위키"
+lang: ko-KR
+baseurl: "/blackrose-wiki"
+url: ""
+markdown: kramdown
+permalink: pretty
+encoding: utf-8
+
+exclude:
+  - README.md
+
+kramdown:
+  input: GFM
+  hard_wrap: false
