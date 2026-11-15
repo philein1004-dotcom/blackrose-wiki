@@ -9,6 +9,8 @@ spoiler: true
 
 # 서여울
 
+<figure class="profile-figure"><img src="{{ '/assets/images/characters/seo-yeoul.webp' | relative_url }}" alt="서여울 공식 설정화 — 백발과 적안, 검은 상복을 입은 인물의 전신과 설정 패널" loading="lazy"><figcaption>사용자 승인 원본 ‘서여울.png’의 무손실 변환본</figcaption></figure>
+
 > “난 인간이야. 그래야만 해.”
 
 <span class="tag">전 사형수</span><span class="tag">사전답사부</span><span class="tag">Null 관리 대상</span><span class="tag">금줄제례</span>
@@ -21,7 +23,7 @@ spoiler: true
 | 생일 | 3월 3일 |
 | 신장 / 체중 | 173cm / 58kg |
 | 소속 | 블랙로즈 손·사전답사부 |
-| 관리 분류 | Null 관리 대상이자 실전 투입 자산 |
+| Null 관련 상태 | **1부: Null 관리 대상·실전 투입 자산 / 2부 구조 후: Null 소속** |
 | 직급 | 사원 |
 | 외형 | 백발 적안, 살구색 피부, 검은 상복과 유사한 옷 |
 | 말투 | 모두에게 존댓말과 해요체. 가까운 상대에게 반존대 |
@@ -65,6 +67,12 @@ spoiler: true
 
 그러나 여울은 끝내 본능에 삼켜져 초련을 죽였다. 이후 도망치지 않고 양 손목을 금줄로 묶은 채 경찰에 자수했다. 사형수가 된 뒤 협회의 사형수 전형에서 살아남아 사전답사부 협회원이 되었다.
 
+## 사택과 유품
+
+서여울은 사형수 출신으로 무급이며 사형수 사택의 독립 초가집에서 지낸다. 보급형 노리개는 지급받지 않았고, 초련이 사용하던 **손상된 노리개를 현장에서 챙겼다가 자수·수감 과정에서 회수당한다.** 2부 구조 후 Null에 소속되며 무극에게 노리개를 돌려받는다.
+
+초련의 **너울**은 여울이 자수 전에 김설하에게 남겼다. 지금은 설하의 개인실에 걸려 있고, 두 사람 모두 반환을 원하지 않는다.
+
 ## 관계
 
 - **묘**: 여울에게 최초의 다정함에 가까운 존재. 인간과 이변의 경계에 선 여울은 보통 무당과 달리 묘를 직접 볼 수 있다.
@@ -80,3 +88,4 @@ spoiler: true
 - [묘]({{ '/characters/myo/' | relative_url }})
 - [초련]({{ '/characters/choryeon/' | relative_url }})
 - [Null]({{ '/organization/null/' | relative_url }})
+- [노리개와 길들임]({{ '/items/norigae/' | relative_url }})
