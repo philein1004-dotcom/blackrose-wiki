@@ -154,3 +154,51 @@ a:hover { color: #ffb0bf; }
   .document table { display: block; overflow-x: auto; white-space: nowrap; }
   .page-footer { display: grid; }
 }
+
+/* Official Blackrose character reference sheets: preserve aspect ratio and legibility. */
+.profile-figure { margin: 22px 0 35px; max-width: 690px; }
+.profile-figure img { display: block; width: 100%; height: auto; border: 1px solid var(--line); border-radius: 10px; background: #f5f0e9; }
+.profile-figure figcaption { color: var(--muted); font-size: 12px; line-height: 1.6; margin-top: 8px; }
+@media (max-width: 620px) { .profile-figure { margin: 16px 0 26px; } }
+
+/* 문서 열람 전 스포일러 확인 — 기존 레이아웃을 유지하는 비보안 UI 가리개 */
+.spoiler-gate {
+  max-width: 760px;
+  margin: 18px 0 32px;
+  padding: clamp(24px, 4.5vw, 42px);
+  border: 1px solid var(--line);
+  border-top: 3px solid var(--red);
+  border-radius: 12px;
+  background: linear-gradient(145deg, rgba(39,25,30,.95), rgba(17,13,16,.96));
+}
+.spoiler-gate__eyebrow {
+  margin: 0 0 18px;
+  color: var(--gold);
+  font: 700 11px/1.5 Georgia, "Noto Sans KR", sans-serif;
+  letter-spacing: .13em;
+}
+.spoiler-gate h1 {
+  margin: 0 0 18px;
+  font: 600 clamp(22px,3.5vw,32px)/1.4 "Noto Serif KR", "Malgun Gothic", serif;
+  letter-spacing: -.025em;
+  overflow-wrap: anywhere;
+}
+.spoiler-gate p { max-width: 55ch; color: #e7dade; }
+.spoiler-gate__hint { font-size: 13px; color: var(--muted) !important; }
+.spoiler-gate__button {
+  margin-top: 16px;
+  padding: 13px 20px;
+  border: 1px solid #bd5368;
+  border-radius: 8px;
+  background: #733145;
+  color: #fff5f7;
+  font: 700 14px/1.5 Pretendard,"Noto Sans KR","Malgun Gothic",sans-serif;
+  cursor: pointer;
+}
+.spoiler-gate__button:hover { background: #914057; }
+.spoiler-gate__button:focus-visible { outline: 3px solid #e9b6c2; outline-offset: 4px; }
+[data-spoiler-content][hidden], [data-spoiler-gate][hidden] { display: none !important; }
+@media (max-width: 620px) {
+  .spoiler-gate { margin-top: 10px; padding: 22px 18px; }
+  .spoiler-gate__button { width: 100%; }
+}
