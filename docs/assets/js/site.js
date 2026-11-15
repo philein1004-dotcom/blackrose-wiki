@@ -7,7 +7,7 @@
   const menuButton = document.querySelector('[data-menu-button]');
   let index = [];
 
-  fetch(`${base}/search.json`)
+  fetch(`${base}/search.json?v=20261115`)
     .then((response) => response.ok ? response.json() : [])
     .then((data) => { index = data; })
     .catch(() => { index = []; });
