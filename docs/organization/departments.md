@@ -29,6 +29,8 @@ clearance: 협회원
 - **무극**: 진·손·Null
 - **음**: 감·간·곤
 
+무극의 관할과 Null의 비공식성은 별개다. Null은 **정식 팔괘 부서 수에 포함되지 않는다.**
+
 ## 관련 문서
 
 - [Null]({{ '/organization/null/' | relative_url }})
