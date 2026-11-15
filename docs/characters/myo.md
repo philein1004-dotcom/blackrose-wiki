@@ -9,6 +9,8 @@ spoiler: true
 
 # 묘
 
+<figure class="profile-figure"><img src="{{ '/assets/images/characters/myo.webp' | relative_url }}" alt="보름달 아래 한복을 입은 묘의 전신. 흰 머리와 붉은 눈, 토끼 귀와 꼬리가 보인다." loading="lazy"><figcaption>묘 설정화</figcaption></figure>
+
 묘는 서여울이 깊이 신앙하는 수호신이다. 사이비 무당이 속박하려 했던 **간지의 묘**이며, 의식이 실패했을 때 스스로 속박을 끊고 여울의 완전한 잠식을 막았다.
 
 ## 서여울에게 갖는 의미
