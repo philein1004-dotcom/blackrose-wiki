@@ -4,160 +4,199 @@
     "category": "홈",
     "url": "/",
     "excerpt": "블랙로즈 세계관 위키 시작 페이지",
-    "keywords": "세계관 홈 죽음 기록 균형"
+    "keywords": "세계관 홈 죽음 기록 균형",
+    "spoiler": false
   },
   {
     "title": "핵심 전제",
     "category": "세계관",
     "url": "/world/overview/",
     "excerpt": "장르, 정서, 중심 질문과 기록 구조",
-    "keywords": "세계관 현대판타지 나폴리탄 괴담"
+    "keywords": "세계관 현대판타지 나폴리탄 괴담",
+    "spoiler": false
   },
   {
     "title": "이변 체계",
     "category": "세계관",
     "url": "/world/anomalies/",
     "excerpt": "공간형·단독형, 틈·채널·서버",
-    "keywords": "이변 틈 채널 서버 정보오염"
+    "keywords": "이변 틈 채널 서버 정보오염",
+    "spoiler": false
   },
   {
     "title": "이변 등급 체계",
     "category": "세계관",
     "url": "/world/grading/",
     "excerpt": "발단·전개·위기·절정·결말과 기승전결",
-    "keywords": "등급 위험도 수칙서"
+    "keywords": "등급 위험도 수칙서",
+    "spoiler": false
   },
   {
     "title": "블랙로즈의 정체",
     "category": "조직",
     "url": "/organization/blackrose/",
     "excerpt": "황룡, 대리인, 양·무극·음과 사신수",
-    "keywords": "협회 황룡 대리인"
+    "keywords": "협회 황룡 대리인",
+    "spoiler": true
   },
   {
     "title": "팔괘 8부서",
     "category": "조직",
     "url": "/organization/departments/",
     "excerpt": "건·태·이·진·손·감·간·곤의 역할",
-    "keywords": "공보부 인사부 연구분석부 탐사A 탐사B 관리부 기록부 후처리부"
+    "keywords": "공보부 인사부 연구분석부 탐사A 탐사B 관리부 기록부 후처리부",
+    "spoiler": false
   },
   {
     "title": "Null",
     "category": "조직",
     "url": "/organization/null/",
     "excerpt": "무극 산하의 비공식 특수부서",
-    "keywords": "널 무극 비공식 부서"
+    "keywords": "널 무극 비공식 부서",
+    "spoiler": true
   },
   {
     "title": "본부·사택·성황당",
     "category": "조직",
     "url": "/organization/headquarters/",
-    "excerpt": "블랙로즈 서버의 이동과 귀환점 등록",
-    "keywords": "성황당 사택 본부 부활"
+    "excerpt": "한국식 신목 성황당과 본부·사택 채널, 귀환점·부활 체계",
+    "keywords": "성황당 사택 본부 부활",
+    "spoiler": false
   },
   {
     "title": "대외 기관",
     "category": "조직",
     "url": "/organization/external/",
     "excerpt": "국민안전부·국제인문연구소·가람출판사",
-    "keywords": "공보부 외부기관"
+    "keywords": "공보부 외부기관",
+    "spoiler": false
   },
   {
     "title": "현장 운용과 수칙서",
     "category": "운용",
     "url": "/operations/field/",
     "excerpt": "사전답사 기록이 수칙서가 되는 과정",
-    "keywords": "수칙서 현장 탐사"
+    "keywords": "수칙서 현장 탐사",
+    "spoiler": false
   },
   {
     "title": "협회원 영입",
     "category": "운용",
     "url": "/operations/recruitment/",
     "excerpt": "비사형수와 사형수 전형",
-    "keywords": "재난안전문자 입사시험"
+    "keywords": "재난안전문자 입사시험",
+    "spoiler": false
   },
   {
     "title": "인물 색인",
     "category": "인물",
     "url": "/characters/",
-    "excerpt": "주요 인물 목록",
-    "keywords": "캐릭터"
+    "excerpt": "사용자 승인 설정화와 인물별 상세 기록",
+    "keywords": "캐릭터",
+    "spoiler": false
   },
   {
     "title": "서여울",
     "category": "인물",
     "url": "/characters/seo-yeoul/",
     "excerpt": "사전답사부 협회원, Null 관리 대상, 금줄제례",
-    "keywords": "여울 묘 초련 본능 악귀"
+    "keywords": "여울 묘 초련 본능 악귀",
+    "spoiler": true
   },
   {
     "title": "김설하",
     "category": "인물",
     "url": "/characters/kim-seolha/",
     "excerpt": "연구·분석부와 Null의 책사, 흑룡소각",
-    "keywords": "설하 검은봉투 단명"
+    "keywords": "설하 검은봉투 단명",
+    "spoiler": true
   },
   {
     "title": "이선",
     "category": "인물",
     "url": "/characters/lee-seon/",
-    "excerpt": "공보부 외부 업무와 법칙을 찢는 악운",
-    "keywords": "이선 악운 국제인문연구소"
+    "excerpt": "건·공보부/Null 중복 소속, 국제인문연구소 고전연구원, 액맥파열",
+    "keywords": "이선 액맥파열 악운 공보부 Null 국제인문연구소",
+    "spoiler": true
   },
   {
     "title": "초련",
     "category": "인물",
     "url": "/characters/choryeon/",
     "excerpt": "서여울을 사람으로 되돌리려 했던 협회원",
-    "keywords": "초련 Null 탐사A"
+    "keywords": "초련 Null 탐사A",
+    "spoiler": true
   },
   {
     "title": "묘",
     "category": "인물",
     "url": "/characters/myo/",
     "excerpt": "서여울이 신앙하는 수호신",
-    "keywords": "묘님 수호신"
+    "keywords": "묘님 수호신",
+    "spoiler": true
   },
   {
     "title": "사건·이변 색인",
     "category": "사건",
     "url": "/anomalies/",
     "excerpt": "이변과 사건 기록 목록",
-    "keywords": "사건 이변 목록"
+    "keywords": "사건 이변 목록",
+    "spoiler": false
   },
   {
     "title": "어둑시니·그슨대 시험 이변",
     "category": "사건",
     "url": "/anomalies/eoduksini-geuseundae/",
     "excerpt": "비사형수·사형수 입사 시험용 관리형 이변",
-    "keywords": "어둑시니 그슨대 시험"
+    "keywords": "어둑시니 그슨대 시험",
+    "spoiler": true
   },
   {
     "title": "검은 봉투 반송 사건",
     "category": "사건",
     "url": "/anomalies/black-envelope-return/",
     "excerpt": "실패한 세계선의 행정 기록 역류",
-    "keywords": "검은봉투 김설하"
+    "keywords": "검은봉투 김설하",
+    "spoiler": true
   },
   {
     "title": "깃펜",
     "category": "장치",
     "url": "/items/quill/",
     "excerpt": "협회원의 1인칭 기록 도구",
-    "keywords": "깃펜 기록 성황당"
+    "keywords": "깃펜 기록 성황당",
+    "spoiler": false
   },
   {
     "title": "부적과 제례 매개",
     "category": "장치",
     "url": "/items/talisman/",
     "excerpt": "봉인·술식·영력 운용 도구",
-    "keywords": "부적 금줄 향"
+    "keywords": "부적 금줄 향",
+    "spoiler": false
   },
   {
     "title": "용어집",
     "category": "색인",
     "url": "/glossary/",
     "excerpt": "세계관 핵심 용어 정의",
-    "keywords": "용어 사전"
+    "keywords": "용어 사전",
+    "spoiler": false
+  },
+  {
+    "title": "무극",
+    "category": "인물",
+    "url": "/characters/mugeuk/",
+    "excerpt": "눈을 가리는 금발의 장난스러운 상층 존재",
+    "keywords": "무극 금발 Null 진 손 황룡 분신",
+    "spoiler": true
+  },
+  {
+    "title": "노리개와 길들임",
+    "category": "장치",
+    "url": "/items/norigae/",
+    "excerpt": "보급형 정신 방호 장비, 길들임, 초련의 유품",
+    "keywords": "노리개 길들임 초련 정신 방호 너울",
+    "spoiler": true
   }
 ]
